@@ -1,0 +1,39 @@
+Installing An Apache LAMP Server On EC2 Instance Running Ubuntu
+
+What is a LAMP stack?
+A LAMP stack is a bundle of four different software technologies that developers use to build websites and web applications. LAMP is an acronym for the operating system, Linux; the web server, Apache; the database server, MySQL; and the programming language, PHP. All four of these technologies are open source, which means they are community maintained and freely available for anyone to use. Developers use LAMP stacks to create, host, and maintain web content. It is a popular solution that powers many of the websites you commonly use today.
+
+Why is a LAMP stack important?
+Web developers choose a LAMP stack to build web applications for the following reasons. 
+
+Cost
+All LAMP technologies are open source, which means that any developer or company can use them without having to pay licensing fees. Instead of purchasing proprietary stack components, you can download the operating system, web server, database, and scripting language for free. This lowers the cost of building web applications.
+
+Efficiency
+Setting up a new web development stack requires rigorous testing of different frameworks, modules, libraries, and tools. On the other hand, a LAMP stack is a tried-and-tested web development solution. Web developers can prioritize and speed up application development to focus on what they are building instead of how they are building it.
+
+Maintenance
+Software experts from around the globe contribute to the development of LAMP stack technologies by changing, commenting on, and reviewing the publicly available source codes. They regularly maintain and update the technologies so that they remain relevant and secure. 
+
+Support
+Popular open-source technologies, such as LAMP stacks, have the support of a large, global IT community. Hence, LAMP stack users can more easily find information on public IT forums. Web developers can refer to example codes or use tested plugins created by the open-source community. 
+
+Flexibility
+A LAMP stack gives both reliability and flexibility to web developers. While the LAMP architecture specifies the software components for each layer, developers can replace them as they see fit. For example, they can use another operating system besides Linux as the stack foundation.
+
+What is a LAMP stack used for?
+A LAMP stack is used for backend or server-side development. A backend application is software that runs in an environment that’s hidden from end users. Backend applications consist of the following:
+
+Data processing software 
+Database components
+Business logic in code 
+API for communicating with other applications 
+The webpage that shows up on your browser is called the frontend application. When you interact with the page, such as by clicking on a button, your browser communicates with the backend application to retrieve the required information.
+
+Developers use a LAMP stack to create both static and dynamic web content.
+
+Static webpages 
+Static webpage information from the web server is the same for all users. For example, the address on a company's website is static content. Web developers create static webpages with HTML and CSS programming languages and store them as files in the web server application. 
+
+Dynamic webpages 
+Dynamic webpages contain information that changes depending on the user viewing the webpage or web application. For example, a website message that changes based on your location is dynamic content. The web server delivers dynamic websites by processing business logic or retrieving data from a database.
